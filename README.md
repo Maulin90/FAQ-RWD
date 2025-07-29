@@ -8,7 +8,15 @@ Project ini adalah sistem FAQ (Frequently Asked Questions) berbasis AI untuk men
 ## ⚙️ Persiapan Wajib (Wajib Ikuti Sebelum Menjalankan)
 
 ### ✅ 1. Install Node.js versi 20 (WAJIB)
+### ✅ 2. Cara Install Flowise For Development Bisa lihat dokumentasi flowise di web
 
+Clone repository Flowise
+
+```bash
+git clone https://github.com/FlowiseAI/Flowise.git
+cd Flowise
+
+### ✅ 3. Sesudah flowise berjalan masukkan model yang sudah di upload di repo ini
 
 Flowise hanya berjalan stabil di Node.js versi **20.x.x**  
 🚫 Jangan gunakan Node.js versi 22 (akan error saat install `faiss-node` dan lainnya)
@@ -21,13 +29,3 @@ Lalu cek versi:
 ```bash
 node -v
 # Harusnya keluar: v20.x.x
-
-### ✅ 2. Cara Install Flowise For Development Bisa lihat dokumentasi flowise di web
-
-Clone repository Flowise
-
-```bash
-git clone https://github.com/FlowiseAI/Flowise.git
-cd Flowise
-
-### ✅ 3. Sesudah flowise berjalan masukkan model yang sudah di upload di repo ini
