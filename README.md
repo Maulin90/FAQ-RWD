@@ -13,7 +13,7 @@ https://nodejs.org/en/download
 
 Lalu cek versi:
 node -v
-# Harusnya keluar: v20.x.x
+Harusnya keluar: v20.x.x
 
 ### ✅ 2. Cara Install Flowise For Development Bisa lihat dokumentasi flowise di web
 Clone repository Flowise
