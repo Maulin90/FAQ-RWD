@@ -21,3 +21,13 @@ Lalu cek versi:
 ```bash
 node -v
 # Harusnya keluar: v20.x.x
+
+### ✅ 2. Cara Install Flowise For Development Bisa lihat dokumentasi flowise di web
+
+Clone repository Flowise
+
+```bash
+git clone https://github.com/FlowiseAI/Flowise.git
+cd Flowise
+
+### ✅ 3. Sesudah flowise berjalan masukkan model yang sudah di upload di repo ini
